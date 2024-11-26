@@ -1,0 +1,1 @@
+With this plan, you'll create a fully functioning token wallet that includes features for sending and receiving IRCRC2 tokens, displaying balances, and basic wallet security. Testing is also integral to ensure that the smart contract behaves as expected.
